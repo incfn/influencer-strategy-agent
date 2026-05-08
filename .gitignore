@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (optional, comment out if you want to include data)
+# *.csv
+
+# IDE
+.vscode/
+.idea/
